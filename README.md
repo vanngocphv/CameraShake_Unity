@@ -22,7 +22,7 @@ Project is created with:
 * Unity Asset: Cartoon FX Remaster (Free version) - [link](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565)
  
 ## Feature
-- When spacebar has been pressed, the explosion will active, add camera will shake
+- When spacebar has been pressed, the explosion will be activated and the camera will shake
 
 ## Explain
 #### Basic Shake:
