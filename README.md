@@ -44,7 +44,7 @@ StartCoroutine(ShakeCamera(Duration, Magnitude));
 ```
 
 #### Cinemachine Shake:
-This shake need setting alot:
+This shake need to set a lot:
 - Create a Impluse Listener for Virtual Camera
 - Create a Source that will holder the Impluse Source. In Source, set Impluse Type to Legacy, and create a new Raw Signal <br />
 ![Impluse Source Setting](./Image/ImpluseSourceSetting.png)
